@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cherry Basket",
+    "desc": "A add item list for your shopping list. build with react js and tailwind css",
+    "image": "cherry",
+    "category": "android",
+    "links": {
+      "view": "https://cherry-basket.netlify.app/",
+      "code": "https://github.com/shubhanshutiwari08/grocery-list"
+    }
+  },
+  {
+    "name": "Levitation | Virgin Hyperloop ",
+    "desc": "A pod booking system made for the virgin hyperloop contest.",
+    "image": "levitation",
+    "category": "android",
+    "links": {
+      "view": "https://levitation-web-app.herokuapp.com/",
+      "code": "https://github.com/shubhanshutiwari08/Levitation"
+    }
+  },
+  {
+    "name": "Coupon Distribution System",
+    "desc": "Virtual Coupon distribution system for organizations to give coupons vto their employees .",
+    "image": "cds",
+    "category": "android",
+    "links": {
+      "view": "http://shubhanshu08.pythonanywhere.com/",
+      "code": "https://github.com/shubhanshutiwari08/coupon-distribution-system"
+    }
+  },
+  {
+    "name": "Space Erudite",
+    "desc": "A game to play to know about the space.",
+    "image": "space",
+    "category": "android",
+    "links": {
+      "view": "https://mohit2pal.github.io/space-erudite-game/",
+      "code": "https://github.com/shubhanshutiwari08/spaceerudite"
+    }
+  },
+  {
+    "name": "MedInVoice",
+    "desc": "A place to gather all your medical details and prescription.",
+    "image": "medinv",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/mohit2pal/Biy-Space-DSHack",
+      "code": "https://github.com/mohit2pal/Biy-Space-DSHack"
+    }
+  },
+  {
+    "name": "Doclab",
+    "desc": "A place to gather all your project details and make it a safe place to store.",
+    "image": "doclab",
+    "category": "android",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=X8-iwMGYNqE&ab_channel=SubhaBalPal",
+      "code": "https://github.com/shubhanshutiwari08/hackoheist"
+    }
+  }
+]
